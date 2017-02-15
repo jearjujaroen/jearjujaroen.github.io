@@ -2386,7 +2386,7 @@
 			width: 50%;
 		}
 
-    .features .project-img {
+    .features .project-img li {
       display: block;
       position: relative;
       text-align: left;
