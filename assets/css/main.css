@@ -2386,11 +2386,12 @@
 			width: 50%;
 		}
 
-    .features .project-img li {
+    .features .project-img {
       display: block;
       position: relative;
       text-align: left;
       width: 50%;
+      padding: 0;
     }
 
 			.features li:nth-child(1) {
